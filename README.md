@@ -6,7 +6,7 @@ The analysis focuses on:
 - Repeat behavior
 - Revenue distribution across customers
 - Identifying risks affecting long-term growth
-__________________________________________________
+______________________________________________
 Objectives :
 - Measure customer retention
 - Identify repeat vs one-time customers
@@ -56,7 +56,7 @@ Key Findings :
 
 - The business relies heavily on continuous customer acquisition
 - This indicates unsustainable growth
-____________________________________________________________
+______________________________________________
 Root Cause Analysis :
 1. Delivery Issues 
 - Presence of undelivered orders
@@ -74,13 +74,13 @@ Impact:
 - Extremely low repeat rate (~3%)
 Impact:
 - No loyalty programs or engagement strategies
-__________________________________________________
+______________________________________________
 Key Insights :
 - Customer retention is critically low
 - Revenue depends on new customers, not loyalty
 - Customer behavior is non-recurring
 - Growth is not sustainable in the long term
-___________________________________________________
+______________________________________________
 Recommendations :
 1. Improve Customer Retention
 - Implement loyalty programs
@@ -98,11 +98,11 @@ Recommendations :
 4. Focus on Repeatable Products
 
 - Promote products with higher repeat potential
-____________________________________________________
-Tools Used :
+______________________________________________
+Tools used :
 - SQL (Data Analysis)
 - Power BI (Dashboard & Visualization)
-_________________________________________________
+______________________________________________
 Dashboard :
 The dashboard includes:
 - Revenue & Orders trends
@@ -111,8 +111,8 @@ The dashboard includes:
 - Repeat vs one-time customers
 - Customer segmentation
 - Top 5 customers
-__________________________________________________
-🧾 Conclusion :
+______________________________________________
+Conclusion :
 The analysis confirms a major retention issue.
 While causation cannot be fully proven, the data provides strong indications that delivery performance, product nature, and lack of retention strategies contribute to low customer retention.
 
